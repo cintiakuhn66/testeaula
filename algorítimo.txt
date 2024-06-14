@@ -1,0 +1,33 @@
+
+ATIVIDADE:
+
+Faça os seguintes algorítimos:
+
+
+> Trocar uma lâmpada 
+
+1- desligar o desjuntor 
+2- pegar uma lâmpada nova
+3- pegar uma escada
+4- abrir a escada
+5- subir na escada 
+6- remover a lâmpada velha
+7- colocar a lâmpada nova
+8- descer da escada
+9- fechar e guardar a escada
+10- descartar a lâmpada velha
+11- ligar o desjuntor
+
+
+> Vir até o SENAC
+
+1- fechar a porta 
+2- descer a escada
+3- sair pelo portão
+4- entrar no carro 
+5- colocar o cinto
+6- vir até a Unisinos
+7- descer do carro 
+8- caminhar até a sala 
+9- sentar no pc 35
+
